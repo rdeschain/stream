@@ -1,0 +1,64 @@
+.top-buffer {
+    margin-top: 20px;
+}
+
+.chat {
+    font-size: 15px;
+    width: 640px;
+    height: 150px;
+    border: 1px solid black;
+    overflow: auto;
+    margin: auto;
+}
+
+.standard-width {
+    width: 640px;
+    margin: auto;
+}
+
+.user-placement {
+    font-size: 15px;
+    width: 640px;
+    margin: auto;
+}
+
+.dropdown-menu-xtra {
+    max-height: 150px;
+    overflow-y: auto;
+}
+
+.select-stream {
+    width: 195px;
+    padding-top: 6px;
+    padding-bottom: 7px;
+}
+
+.status-place {
+    font-size: 15px;
+    width: 640px;
+    overflow: auto;
+    margin: auto;
+}
+
+.chat-offline {
+    background-color: #F0F0F0;
+    font-style: italic;
+}
+
+.chat-status {
+    color: red;
+    font-weight: bold;
+}
+
+.centered {
+    margin: auto;
+}
+
+.post-progress {
+    background-color: #d9edf7;
+    color: #31708f;
+}
+
+.post-progress[disabled] {
+    background: #d9edf7;
+}
