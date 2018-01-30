@@ -1,6 +1,5 @@
 <?php
 
-
 namespace App\Library;
 
 use App\Token;
